@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8pS3AQdPD9oSDlaHWtMMj071Q2wD9CeFCvy88fjh0n8=",
+  "Source": "JwtAuthDotNet9",
+  "BasePath": "_content/JwtAuthDotNet9",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
