@@ -168,3 +168,4 @@ C:\Users\leand\Desktop\Projetos\New folder\JwtAuthDotNet9\JwtAuthDotNet9\obj\Deb
 C:\Users\leand\Desktop\Projetos\New folder\JwtAuthDotNet9\JwtAuthDotNet9\obj\Debug\net9.0\ref\JwtAuthDotNet9.dll
 C:\Users\leand\Desktop\Projetos\New folder\JwtAuthDotNet9\JwtAuthDotNet9\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\leand\Desktop\Projetos\New folder\JwtAuthDotNet9\JwtAuthDotNet9\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\leand\Desktop\Projetos\New folder\JwtAuthDotNet9\JwtAuthDotNet9\obj\Debug\net9.0\JwtAuthDotNet9.sourcelink.json

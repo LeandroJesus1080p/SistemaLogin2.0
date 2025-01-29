@@ -96,5 +96,47 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "JwtAuthDotNet9.Controllers.AuthController",
+    "Method": "Get",
+    "RelativePath": "api/Auth/user",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JwtAuthDotNet9.Controllers.FileManagerController",
+    "Method": "DownloadFile",
+    "RelativePath": "api/FileManager/downloadfile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FileName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JwtAuthDotNet9.Controllers.FileManagerController",
+    "Method": "UploadFile",
+    "RelativePath": "api/FileManager/Uploadfile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_IFormFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

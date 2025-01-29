@@ -1,10 +1,12 @@
-﻿using JwtAuthDotNet9.Entities;
+﻿using JwtAuthDotNet9.Data;
+using JwtAuthDotNet9.Entities;
 using JwtAuthDotNet9.Models;
 using JwtAuthDotNet9.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Net.Mail;
@@ -15,7 +17,7 @@ namespace JwtAuthDotNet9.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class AuthController(IAuthService authService) : ControllerBase
+    public class AuthController(IAuthService authService, AppDbContext context) : ControllerBase
     {
         public static User user = new();
 
@@ -69,6 +71,12 @@ namespace JwtAuthDotNet9.Controllers
             return Ok("You are and admin!");
         }
 
+        [HttpGet("user")]
+        public async Task<IActionResult> Get()
+        {
+            var getUser = await context.Users.ToListAsync();
+            return Ok(getUser);
+        }
 
     }
 }
