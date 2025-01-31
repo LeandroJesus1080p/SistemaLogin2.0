@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\leand\\desktop\\projetos\\new folder\\jwtauthdotnet9\\jwtauthdotnet9\\services\\imanageimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\services\\imanageimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\leand\\desktop\\projetos\\new folder\\jwtauthdotnet9\\jwtauthdotnet9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\leand\\desktop\\projetos\\new folder\\jwtauthdotnet9\\jwtauthdotnet9\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\leand\\desktop\\projetos\\new folder\\jwtauthdotnet9\\jwtauthdotnet9\\controllers\\filemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\leand\\desktop\\projetos\\new folder\\jwtauthdotnet9\\jwtauthdotnet9\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\leand\\desktop\\projetos\\new folder\\jwtauthdotnet9\\jwtauthdotnet9\\services\\imanageimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\services\\imanageimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\leand\\desktop\\projetos\\new folder\\jwtauthdotnet9\\jwtauthdotnet9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\leand\\desktop\\projetos\\new folder\\jwtauthdotnet9\\jwtauthdotnet9\\helper\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\leand\\desktop\\projetos\\new folder\\jwtauthdotnet9\\jwtauthdotnet9\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\leand\\desktop\\projetos\\new folder\\jwtauthdotnet9\\jwtauthdotnet9\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D74F996-AA91-4908-A5CA-DEC30152DE02}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\leand\\desktop\\projetos\\new folder\\jwtauthdotnet9\\jwtauthdotnet9\\jwtauthdotnet9.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -62,11 +62,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IManageImage.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Services\\IManageImage.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Services\\IManageImage.cs",
+              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Services\\IManageImage.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Services\\IManageImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:44:07.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Models\\RefreshTokenRequestDto.cs",
+              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Models\\RefreshTokenRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:52:29.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\TokenResponseDto.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Models\\TokenResponseDto.cs",
+              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\TokenResponseDto.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Models\\TokenResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:52:24.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\UserDto.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Models\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:52:20.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T00:03:18.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Services\\IAuthService.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAnwGoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T23:07:24.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FileManagerController.cs",
               "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Controllers\\FileManagerController.cs",
               "RelativeDocumentMoniker": "JwtAuthDotNet9\\Controllers\\FileManagerController.cs",
@@ -74,34 +147,19 @@
               "RelativeToolTip": "JwtAuthDotNet9\\Controllers\\FileManagerController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAApwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T21:40:44.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T21:40:44.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Common.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Helper\\Common.cs",
-              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Helper\\Common.cs",
-              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Helper\\Common.cs",
-              "RelativeToolTip": "JwtAuthDotNet9\\Helper\\Common.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Entities\\User.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T21:23:05.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IManageImage.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Services\\IManageImage.cs",
-              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Services\\IManageImage.cs",
-              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Services\\IManageImage.cs",
-              "RelativeToolTip": "JwtAuthDotNet9\\Services\\IManageImage.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:44:07.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T20:52:39.975Z"
             },
             {
               "$type": "Document",
@@ -117,59 +175,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Entities\\User.cs",
-              "RelativeToolTip": "JwtAuthDotNet9\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T20:52:39.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RefreshTokenRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\RefreshTokenRequestDto.cs",
-              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Models\\RefreshTokenRequestDto.cs",
-              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\RefreshTokenRequestDto.cs",
-              "RelativeToolTip": "JwtAuthDotNet9\\Models\\RefreshTokenRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T20:52:29.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TokenResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\TokenResponseDto.cs",
-              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Models\\TokenResponseDto.cs",
-              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\TokenResponseDto.cs",
-              "RelativeToolTip": "JwtAuthDotNet9\\Models\\TokenResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T20:52:24.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\UserDto.cs",
-              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Models\\UserDto.cs",
-              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\UserDto.cs",
-              "RelativeToolTip": "JwtAuthDotNet9\\Models\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Helper\\Common.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Helper\\Common.cs",
+              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Helper\\Common.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Helper\\Common.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T20:52:20.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T21:23:05.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Program.cs",
               "RelativeDocumentMoniker": "JwtAuthDotNet9\\Program.cs",
@@ -177,34 +195,7 @@
               "RelativeToolTip": "JwtAuthDotNet9\\Program.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T17:00:05.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "JwtAuthDotNet9\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T00:03:18.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Services\\IAuthService.cs",
-              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Services\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\New folder\\JwtAuthDotNet9\\JwtAuthDotNet9\\Services\\IAuthService.cs",
-              "RelativeToolTip": "JwtAuthDotNet9\\Services\\IAuthService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAwwCUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T23:07:24.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T17:00:05.671Z"
             },
             {
               "$type": "Document",
@@ -216,8 +207,7 @@
               "RelativeToolTip": "JwtAuthDotNet9\\JwtAuthDotNet9.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-29T18:24:48.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T18:24:48.023Z"
             },
             {
               "$type": "Document",

@@ -42,7 +42,11 @@ namespace JwtAuthDotNet9.Controllers
                 return BadRequest("Invalid username or password.");
             }
 
-            return Ok(token);
+            return Ok( new
+            {
+                data = token,
+                message = true
+            });
         }
 
         [HttpPost("refresh-token")]
@@ -71,11 +75,15 @@ namespace JwtAuthDotNet9.Controllers
             return Ok("You are and admin!");
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet("user")]
         public async Task<IActionResult> Get()
         {
             var getUser = await context.Users.ToListAsync();
-            return Ok(getUser);
+            return Ok(new
+            {
+                data = getUser
+            });
         }
 
     }
